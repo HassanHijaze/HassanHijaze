@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hassan 👋</h1>
 
 <p align="center">
-  <code>Applied Mathematics | Data Science | Machine Learning | AI Engineering</code>
+  <code>M.Sc. Applied Mathematics | Data Science | Machine Learning | AI Engineering</code>
 </p>
 
 ---
@@ -17,12 +17,14 @@ I am currently strengthening my skills in **machine learning and AI engineering*
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
 ## Current Focus
 
 - **Machine Learning & Deep Learning**
@@ -37,6 +39,7 @@ I am currently strengthening my skills in **machine learning and AI engineering*
 
 - **[Berlin Bureaucracy RAG](https://github.com/HassanHijaze/berlin-bureaucracy-rag)** — Retrieval-augmented system for answering questions about Berlin administrative processes using official information sources.
 
+- **[Electric Bus Scheduling with Genetic Algorithms](https://github.com/HassanHijaze/genetic-algorithm-electric-bus-scheduling)** — Master's thesis project applying genetic algorithms to the optimization of electric bus scheduling.
 ## Current Direction
 
 Working toward roles in **AI/ML Engineering**, combining my mathematical background with practical skills in programming, data analysis, and machine learning.

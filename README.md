@@ -24,7 +24,7 @@ I am currently strengthening my skills in **machine learning and AI engineering*
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-## Current Focus
+## Focus
 
 - **Machine Learning & Deep Learning**
 - **AI/ML Engineering**
@@ -32,7 +32,7 @@ I am currently strengthening my skills in **machine learning and AI engineering*
 - **Optimization**
 - **Retrieval-Augmented Generation**
 
-## Featured Projects
+## Projects
 
 - **[German AI Text Detector](https://github.com/HassanHijaze/german-ai-text-detector-from-scratch)** — German text classification across human-written, AI-generated, and AI-assisted text using machine learning and transformer-based approaches.
 
